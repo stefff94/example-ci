@@ -1,4 +1,5 @@
 # example-ci
+[![Build Status](https://travis-ci.com/stefff94/example-ci.svg?branch=master)](https://travis-ci.com/stefff94/example-ci)
 [![Coverage Status](https://coveralls.io/repos/github/stefff94/example-ci/badge.svg?branch=master)](https://coveralls.io/github/stefff94/example-ci?branch=master)
 ## Project setup
 ```
