@@ -37,6 +37,11 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  methods: {
+    doSomething() {
+      this.$emit("greeting", "hi");
+    }
   }
 }
 </script>

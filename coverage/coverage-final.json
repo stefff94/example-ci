@@ -1,1 +1,2 @@
-{}
+{"/Users/stefano/Desktop/travis-coveralls-example/example-ci/src/components/HelloWorld.vue": {"path":"/Users/stefano/Desktop/travis-coveralls-example/example-ci/src/components/HelloWorld.vue","statementMap":{"0":{"start":{"line":43,"column":0},"end":{"line":43,"column":null}}},"fnMap":{"0":{"name":"(anonymous_1)","decl":{"start":{"line":42,"column":0},"end":{"line":42,"column":null}},"loc":{"start":{"line":42,"column":0},"end":{"line":44,"column":null}}}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{}}
+}
